@@ -1,0 +1,303 @@
+repo_id,created_at_first,created_at_last,repo_name,repo_language,repo_description
+8514,2020-01-01 09:29:36,2023-03-31 23:44:55,rails/rails,Ruby,Ruby on Rails
+156018,2020-07-07 17:23:42,2023-03-31 23:28:47,redis/redis,C,"Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps."
+302322,2020-01-01 08:16:09,2023-03-31 23:46:29,gradle/gradle,Groovy,"Adaptable, fast automation for all"
+458058,2020-01-01 14:08:35,2023-03-31 23:55:27,symfony/symfony,PHP,The Symfony PHP framework
+507775,2020-01-01 09:49:44,2023-03-31 23:37:55,elastic/elasticsearch,Java,"Free and Open, Distributed, RESTful Search Engine"
+576201,2020-01-01 10:15:09,2023-03-31 23:13:36,mrdoob/three.js,JavaScript,JavaScript 3D Library.
+724712,2020-01-01 08:00:09,2023-03-31 23:53:33,rust-lang/rust,Rust,Empowering everyone to build reliable and efficient software.
+843222,2020-01-01 08:10:20,2023-03-31 23:57:35,scikit-learn/scikit-learn,Python,scikit-learn: machine learning in Python
+858127,2020-01-01 08:19:58,2023-03-31 23:56:41,pandas-dev/pandas,Python,"Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more"
+873328,2020-01-01 08:06:48,2023-03-31 23:58:22,getsentry/sentry,Python,"Sentry is cross-platform application monitoring, with a focus on error reporting."
+1147463,2020-01-01 08:54:07,2023-03-31 23:56:05,rstudio/rstudio,Java,RStudio is an integrated development environment (IDE) for R
+1181927,2020-01-01 10:15:50,2023-03-31 23:54:58,bitcoin/bitcoin,C++,Bitcoin Core integration/staging tree
+1217614,2020-01-01 08:00:07,2023-03-31 23:54:06,xbmc/xbmc,C++,"Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows."
+1385122,2020-01-01 10:17:01,2023-03-31 23:27:39,matplotlib/matplotlib,Python,matplotlib: plotting with Python
+1460385,2020-01-01 14:58:37,2023-03-31 22:54:52,scipy/scipy,Python,SciPy library main repository
+1644196,2020-01-01 08:48:28,2023-03-31 23:57:31,JuliaLang/julia,Julia,The Julia Programming Language
+1690480,2020-01-01 08:14:13,2023-03-31 23:59:54,qgis/QGIS,C++,"QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)"
+1903522,2020-01-01 16:42:32,2023-03-31 23:34:33,php/php-src,C,The PHP Interpreter
+1924147,2020-01-01 10:05:11,2023-03-31 22:41:43,postmanlabs/postman-app-support,,"Postman helps you be more efficient while working with APIs. Using Postman, you can construct complex HTTP requests quickly, organize them in collections and share them with your co-workers."
+2179920,2020-01-01 21:35:57,2023-03-31 23:59:28,woocommerce/woocommerce,PHP,An open source eCommerce plugin for WordPress.
+2200856,2020-01-01 08:31:01,2023-03-31 23:49:09,MarlinFirmware/Marlin,C++,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.
+2293158,2020-01-01 13:27:54,2023-03-31 23:26:12,rapid7/metasploit-framework,Ruby,Metasploit Framework
+2310495,2020-01-01 09:09:06,2023-03-31 23:52:57,ceph/ceph,C++,"Ceph is a distributed object, block, and file storage platform"
+2464908,2020-01-01 09:55:57,2023-03-31 23:57:42,joomla/joomla-cms,PHP,Home of the Joomla! Content Management System
+2884111,2020-01-01 08:14:08,2023-03-31 23:59:47,magento/magento2,PHP,"Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement."
+2928944,2020-01-01 08:17:10,2023-03-31 23:38:21,Azure/azure-sdk-for-net,C#,This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+2928948,2020-01-01 08:14:49,2023-03-31 23:11:14,Azure/azure-sdk-for-java,Java,This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+3234987,2020-01-01 08:15:54,2023-03-31 23:59:48,tgstation/tgstation,DM,The /tg/station branch of SS13
+3351871,2020-01-01 09:42:38,2023-03-31 23:21:07,qbittorrent/qBittorrent,C++,qBittorrent BitTorrent client
+3623050,2020-01-01 08:01:55,2023-03-31 23:53:12,Homebrew/homebrew-cask,Ruby,🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+3638964,2020-01-01 08:02:59,2023-03-31 23:57:17,ansible/ansible,Python,"Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/"
+3791835,2020-01-01 08:13:31,2023-03-31 23:52:22,darktable-org/darktable,C,darktable is an open source photography workflow application and raw developer
+4127088,2020-01-01 08:05:45,2023-03-31 23:55:54,Azure/azure-sdk-for-python,Python,This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.
+4542716,2020-01-01 08:03:05,2023-03-31 23:54:41,NixOS/nixpkgs,Nix,Nix Packages collection
+5108051,2020-01-01 11:05:06,2023-03-31 23:49:44,opencv/opencv,C++,Open Source Computer Vision Library
+5973855,2020-01-01 08:38:40,2023-03-31 23:55:54,CleverRaven/Cataclysm-DDA,C++,Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
+6093316,2020-01-01 08:25:44,2023-03-31 23:48:49,DefinitelyTyped/DefinitelyTyped,TypeScript,The repository for high quality TypeScript type definitions.
+6520784,2020-01-01 09:38:13,2023-03-31 22:05:53,RPCS3/rpcs3,C++,PS3 emulator/debugger
+6763587,2020-01-01 18:14:57,2023-03-31 23:37:03,PrestaShop/PrestaShop,PHP,"PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers."
+7122594,2020-01-01 14:10:52,2023-03-31 23:48:46,directus/directus,TypeScript,Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
+7512484,2020-01-01 08:04:51,2023-03-31 23:23:56,ArduPilot/ardupilot,C++,"ArduPlane, ArduCopter, ArduRover, ArduSub source"
+7548986,2020-01-01 10:43:03,2023-03-31 23:47:17,laravel/framework,PHP,The Laravel Framework.
+7634677,2020-01-01 08:06:55,2023-03-31 22:42:49,openssl/openssl,C,TLS/SSL and crypto library
+7716883,2020-01-01 12:32:24,2023-03-31 22:49:58,ankidroid/Anki-Android,Java,AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+7833168,2020-01-01 10:40:00,2023-03-31 23:59:23,elastic/kibana,TypeScript,Your window into the Elastic Stack
+9384267,2020-01-01 08:31:40,2023-03-31 23:59:39,electron/electron,C++,":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS"
+10270250,2020-01-01 09:25:58,2023-03-31 23:59:09,facebook/react,JavaScript,"A declarative, efficient, and flexible JavaScript library for building user interfaces."
+10969551,2020-01-01 18:06:00,2023-03-31 23:59:03,cms-sw/cmssw,C++,CMS Offline Software
+11125589,2020-01-01 08:31:37,2023-03-31 23:47:29,keycloak/keycloak,Java,Open Source Identity and Access Management For Modern Applications and Services
+12888993,2020-03-02 21:00:16,2023-03-31 23:57:59,home-assistant/core,Python,:house_with_garden: Open source home automation that puts local control and privacy first.
+13233158,2020-01-01 12:59:20,2023-03-31 23:48:46,obsproject/obs-studio,C,OBS Studio - Free and open source software for live streaming and screen recording
+14218827,2020-12-08 09:41:20,2023-03-31 23:17:41,GoogleChrome/developer.chrome.com,HTML,Chrome Developers
+15111821,2020-01-01 09:42:45,2023-03-31 23:55:42,grafana/grafana,TypeScript,"The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more."
+15225670,2020-01-01 18:08:51,2023-03-31 22:08:17,jitsi/jitsi-meet,TypeScript,"Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application."
+15231212,2020-01-01 13:45:43,2023-03-31 23:54:21,Automattic/jetpack,PHP,"Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic."
+15634981,2020-01-01 08:16:01,2023-03-31 23:49:48,godotengine/godot,C++,Godot Engine – Multi-platform 2D and 3D game engine
+15730865,2020-01-01 08:25:18,2023-03-31 23:47:31,spack/spack,Python,"A flexible package manager that supports multiple versions, configurations, platforms, and compilers."
+15783450,2020-01-02 00:55:28,2023-03-31 23:58:25,jlord/patchwork,Rich Text Format,All the Git-it Workshop completers!
+16157746,2020-01-08 05:31:26,2023-03-31 22:32:43,dotnet/efcore,C#,"EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations."
+16408992,2020-01-01 08:38:22,2023-03-31 23:49:33,neovim/neovim,Vim script,Vim-fork focused on extensibility and usability
+16563587,2020-01-01 08:07:26,2023-03-31 23:59:33,cockroachdb/cockroach,Go,"CockroachDB - the open source, cloud-native distributed SQL database."
+17165658,2020-01-01 08:05:53,2023-03-31 23:44:10,apache/spark,Scala,Apache Spark - A unified analytics engine for large-scale data processing
+17620347,2020-01-08 05:27:37,2023-03-31 23:51:30,dotnet/aspnetcore,C#,"ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux."
+17914657,2020-01-01 08:07:37,2023-03-31 23:58:56,webcompat/web-bugs,,A place to report bugs on websites.
+19745004,2020-01-01 08:23:52,2023-03-31 23:59:59,odoo/odoo,JavaScript,Odoo. Open Source Apps To Grow Your Business.
+19753195,2020-01-01 15:35:48,2023-03-31 21:55:12,openhab/openhab-addons,Java,Add-ons for openHAB
+20580498,2020-01-01 08:01:56,2023-03-31 23:59:25,kubernetes/kubernetes,Go,Production-Grade Container Scheduling and Management
+20587599,2020-01-01 10:32:29,2023-03-31 23:43:40,apache/flink,Java,Apache Flink
+20884782,2020-01-01 11:47:25,2023-03-31 23:58:40,Ultimaker/Cura,Python,3D printer / slicing GUI built on top of the Uranium framework
+20929025,2020-01-01 08:02:24,2023-03-31 23:51:33,microsoft/TypeScript,TypeScript,TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+21740844,2020-01-02 09:14:27,2023-03-31 23:59:58,openshift/openshift-docs,HTML,OpenShift 3 and 4 product and community documentation
+22456440,2020-01-01 08:26:52,2023-03-31 22:57:28,ppy/osu,C#,rhythm is just a *click* away!
+22637619,2020-01-01 08:07:30,2023-03-31 23:56:18,AdguardTeam/AdguardFilters,Python,AdGuard Content Blocking Filters
+22844864,2020-01-01 12:07:35,2023-03-31 23:41:05,matrix-org/synapse,Python,Synapse: Matrix homeserver written in Python/Twisted.
+23083156,2022-02-06 22:49:30,2023-03-31 23:49:51,mui/material-ui,JavaScript,"MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design."
+23096959,2020-01-01 08:05:56,2023-03-31 23:59:40,golang/go,Go,The Go programming language
+23891194,2020-01-02 05:31:42,2023-03-31 23:59:20,Azure/azure-powershell,C#,Microsoft Azure PowerShell
+24195339,2020-01-01 08:59:05,2023-03-31 23:11:30,angular/angular,TypeScript,The modern web developer’s platform
+24410210,2020-01-01 09:52:04,2023-03-31 23:49:04,JetBrains/swot,Kotlin,Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+26337322,2020-01-01 08:05:06,2023-03-31 23:59:15,rancher/rancher,Go,Complete container management platform
+27193779,2020-01-01 08:31:08,2023-03-31 23:59:48,nodejs/node,JavaScript,Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+27729880,2020-01-01 12:13:59,2023-03-31 23:42:33,grpc/grpc,C++,"The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)"
+27737393,2020-01-01 08:38:37,2023-03-31 23:54:50,qmk/qmk_firmware,C,Open-source keyboard firmware for Atmel AVR and Arm USB families
+28239455,2020-02-20 05:19:15,2023-03-31 23:43:26,dotnet/AspNetCore.Docs,C#,Documentation for ASP.NET Core
+28312955,2020-01-01 08:36:57,2023-03-31 23:45:51,home-assistant/home-assistant.io,HTML,:blue_book: Home Assistant User documentation
+29028775,2020-01-01 11:29:28,2023-03-31 23:50:04,facebook/react-native,JavaScript,A framework for building native apps with React.
+29078997,2020-01-01 08:02:01,2023-03-31 23:56:47,dotnet/roslyn,C#,The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+30203935,2020-01-01 08:41:00,2023-03-31 23:41:49,metabase/metabase,Clojure,"The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:"
+30892477,2020-01-01 14:17:22,2023-03-31 23:17:42,spyder-ide/spyder,Python,Official repository for Spyder - The Scientific Python Development Environment
+31288958,2020-01-01 09:56:05,2023-03-31 23:59:32,hashicorp/vault,Go,"A tool for secrets management, encryption as a service, and privileged access management"
+31558937,2020-01-02 08:35:22,2023-03-31 23:59:54,gravitational/teleport,Go,"Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops"
+31629751,2020-01-01 10:30:54,2023-03-31 23:59:49,cypress-io/cypress,JavaScript,"Fast, easy and reliable testing for anything that runs in a browser."
+31792824,2020-01-01 08:00:32,2023-03-31 23:57:16,flutter/flutter,Dart,Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+32873313,2020-01-01 08:06:25,2023-03-31 23:43:06,systemd/systemd,C,The systemd System and Service Manager
+33258973,2020-01-01 10:06:46,2023-03-31 23:35:27,influxdata/telegraf,Go,The plugin-driven server agent for collecting & reporting metrics.
+33884891,2020-01-01 08:13:33,2023-03-31 23:51:41,apache/airflow,Python,"Apache Airflow - A platform to programmatically author, schedule, and monitor workflows"
+34526884,2020-01-01 10:11:11,2023-03-31 22:54:44,ant-design/ant-design,TypeScript,🌈  A UI Design Language and React UI library
+35866694,2020-01-01 09:04:26,2023-03-31 23:59:48,RocketChat/Rocket.Chat,JavaScript,The communications platform that puts data protection first.
+35890081,2020-01-01 08:56:10,2023-03-31 23:34:45,dotnet/docs,PowerShell,This repository contains .NET Documentation.
+36040894,2020-01-01 08:00:33,2023-03-31 18:48:52,gatsbyjs/gatsby,JavaScript,"Build blazing fast, modern apps and websites with React"
+37346186,2020-01-01 15:46:45,2023-03-31 23:16:21,termux/termux-packages,Shell,A build system and primary set of packages for Termux.
+38982731,2020-03-02 20:54:30,2023-03-31 23:58:58,home-assistant/frontend,TypeScript,:lollipop: Frontend for Home Assistant
+39093389,2020-01-01 09:06:58,2023-03-31 23:56:40,Azure/azure-rest-api-specs,TypeScript,The source for REST API specifications for Microsoft Azure.
+39211337,2020-01-01 17:16:20,2023-03-31 23:29:45,flutter/engine,C++,The Flutter engine
+39464018,2021-01-06 01:59:19,2023-03-31 23:32:04,apache/superset,Python,Apache Superset is a Data Visualization and Data Exploration Platform
+40276274,2020-01-01 08:16:48,2023-03-31 23:30:08,ziglang/zig,Zig,"General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software."
+40499714,2020-01-01 08:06:57,2023-03-31 23:57:40,gentoo/gentoo,Shell,[MIRROR] Official Gentoo ebuild repository
+40687563,2020-01-01 10:26:30,2023-03-31 23:56:12,oppia/oppia,Python,"A free, online learning platform to make quality education accessible for all."
+41288708,2020-01-01 08:10:04,2023-03-31 23:57:58,sourcegraph/sourcegraph,Go,Code Intelligence Platform
+41829476,2020-01-01 17:40:15,2023-03-31 23:57:46,conda-forge/staged-recipes,Python,A place to submit conda recipes before they become fully fledged conda-forge feedstocks
+41881900,2020-01-01 08:10:27,2023-03-31 23:59:51,microsoft/vscode,TypeScript,Visual Studio Code
+41889031,2020-01-01 09:10:51,2023-03-31 21:52:58,TeamNewPipe/NewPipe,Java,A libre lightweight streaming front-end for Android.
+41986369,2020-01-01 08:35:36,2023-03-31 22:59:39,pingcap/tidb,Go,TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+42009758,2020-01-01 17:21:57,2023-03-31 23:59:10,MetaMask/metamask-extension,JavaScript,:globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+42372094,2020-01-01 11:54:19,2023-03-31 23:56:34,bioconda/bioconda-recipes,Shell,Conda recipes for the bioconda channel.
+43160685,2020-01-01 09:15:50,2023-03-31 23:53:18,zulip/zulip,Python,Zulip server and web app—powerful open source team chat
+43441403,2020-01-01 08:04:03,2023-03-31 23:54:17,strapi/strapi,JavaScript,🚀 Open source Node.js Headless CMS to easily build customisable APIs
+43807251,2020-12-16 04:56:29,2023-03-31 23:42:49,tachiyomiorg/tachiyomi,Kotlin,Free and open source manga reader for Android.
+44662669,2020-01-01 13:55:34,2023-03-31 23:43:01,dbeaver/dbeaver,Java,Free universal database tool and SQL client
+44838949,2020-01-01 08:04:23,2023-03-31 23:41:04,apple/swift,C++,The Swift Programming Language
+45717250,2020-01-01 08:03:49,2023-03-31 23:49:47,tensorflow/tensorflow,C++,An Open Source Machine Learning Framework for Everyone
+45821540,2020-01-01 09:41:33,2023-03-31 23:54:23,openwrt/openwrt,C,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+45865171,2020-01-01 08:44:27,2023-03-31 23:55:00,microsoftgraph/microsoft-graph-docs,PowerShell,Documentation for the Microsoft Graph REST API
+45936895,2020-01-01 08:13:22,2023-03-31 23:58:50,Automattic/wp-calypso,JavaScript,The JavaScript and API powered WordPress.com
+46374199,2020-01-01 12:37:54,2023-03-31 23:52:50,IntelRealSense/librealsense,C++,Intel® RealSense™ SDK
+48109239,2020-01-02 08:39:02,2023-03-31 23:47:55,cilium/cilium,Go,"eBPF-based Networking, Security, and Observability"
+49016322,2020-01-01 08:07:19,2023-03-31 23:54:58,angular/components,TypeScript,Component infrastructure and Material Design components for Angular
+49609581,2020-01-01 09:35:52,2023-03-31 23:43:50,PowerShell/PowerShell,C#,PowerShell for every system!
+49876476,2020-04-17 22:09:07,2023-03-31 23:59:16,apache/shardingsphere,Java,Build criterion and ecosystem above multi-model databases
+49970739,2020-01-02 16:36:59,2023-03-31 23:54:46,DataDog/datadog-agent,Go,Datadog Agent
+50904245,2020-01-01 18:04:29,2023-03-31 23:56:01,apache/beam,Java,Apache Beam is a unified programming model for Batch and Streaming
+51040886,2020-01-01 08:50:11,2023-03-31 23:05:15,Azure/azure-cli,Python,Command-line tools for Azure.
+51478266,2020-01-01 08:07:19,2023-03-31 23:38:06,kubernetes/website,HTML,Kubernetes website and documentation repo:
+51905353,2020-01-01 12:31:29,2023-03-31 23:57:38,apache/arrow,C++,Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+52281283,2021-07-12 01:40:21,2023-03-31 23:44:14,mastodon/mastodon,Ruby,"Your self-hosted, globally interconnected microblogging community"
+52300938,2020-01-01 13:47:42,2023-03-31 23:20:47,bitnami/charts,Mustache,Bitnami Helm Charts
+52331602,2020-01-01 08:51:04,2023-03-31 23:50:10,openjournals/joss-reviews,,Reviews for the Journal of Open Source Software
+52855516,2020-01-01 09:45:19,2023-03-31 23:55:10,Homebrew/homebrew-core,Ruby,🍻 Default formulae for the missing package manager for macOS (or Linux)
+52882701,2020-01-01 11:00:21,2023-03-31 23:48:56,prusa3d/PrusaSlicer,C++,"G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)"
+54173593,2020-01-01 08:07:38,2023-03-31 23:59:57,storybookjs/storybook,TypeScript,"📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!"
+55228249,2020-01-01 10:44:08,2023-03-31 23:44:03,uBlockOrigin/uAssets,Shell,"Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc."
+55626935,2020-01-01 12:10:05,2023-03-31 23:24:11,microsoft/WSL,Python,Issues found on WSL
+56353740,2020-01-01 10:22:53,2023-03-31 23:30:53,kubernetes/minikube,Go,Run Kubernetes locally
+56710511,2020-01-01 14:03:31,2023-03-31 23:47:59,xamarin/xamarin-macios,C#,"Bridges the worlds of .NET with the native APIs of macOS, iOS, tvOS, and watchOS."
+57333709,2020-01-01 08:15:57,2023-03-31 23:16:54,kubernetes/test-infra,Go,Test infrastructure for the Kubernetes project.
+58559694,2020-01-01 10:10:18,2023-03-31 23:26:01,desktop/desktop,TypeScript,Focus on what matters instead of fighting with Git.
+59771425,2020-01-01 10:48:44,2023-03-31 23:59:35,zephyrproject-rtos/zephyr,C,"Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures."
+60010673,2020-01-01 09:05:46,2023-03-31 23:48:52,elementor/elementor,JavaScript,"The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design."
+60243197,2020-01-01 09:59:15,2023-03-31 23:53:26,nextcloud/server,PHP,"☁️ Nextcloud server, a safe home for all your data"
+60246359,2020-01-01 11:31:37,2023-03-31 23:57:04,ClickHouse/ClickHouse,C++,ClickHouse® is a free analytics DBMS for big data
+60525392,2020-01-01 15:18:17,2023-03-31 23:48:59,demisto/content,Python,Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!
+60537144,2020-03-21 04:15:40,2023-03-31 23:50:02,microsoft/fluentui,TypeScript,We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
+61980658,2020-01-01 19:04:29,2023-03-31 23:59:28,azerothcore/azerothcore-wotlk,C++,Complete Open Source and Modular solution for MMO
+62117812,2020-01-01 08:26:04,2023-03-31 23:54:59,apache/pulsar,Java,Apache Pulsar - distributed pub-sub messaging system
+65214191,2020-01-01 08:22:04,2023-03-31 23:57:01,envoyproxy/envoy,C++,Cloud-native high-performance edge/middle/service proxy
+65600975,2020-01-01 10:28:15,2023-03-31 23:58:57,pytorch/pytorch,C++,Tensors and Dynamic neural networks in Python with strong GPU acceleration
+65711522,2020-01-01 09:26:48,2023-03-31 22:19:31,PaddlePaddle/Paddle,Python,PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+65750241,2020-01-01 09:03:38,2023-03-31 23:59:26,expo/expo,Objective-C,"An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web."
+65772720,2022-09-29 21:44:59,2023-03-31 23:09:48,docker/docs,HTML,Source repo for Docker's Documentation
+65899476,2020-01-01 08:07:43,2023-03-31 23:54:37,espressif/esp-idf,C,Espressif IoT Development Framework. Official development framework for ESP32.
+68312233,2020-01-01 08:01:00,2023-03-31 23:36:02,microsoft/vcpkg,CMake,"C++ Library Manager for Windows, Linux, and MacOS"
+68720867,2020-01-01 08:08:19,2023-03-31 23:52:43,firstcontributions/first-contributions,JavaScript,🚀✨ Help beginners to contribute to open source projects
+69164196,2020-01-01 11:47:52,2020-03-31 21:13:26,prisma/prisma,Scala,"💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB)"
+70107786,2020-05-28 02:07:16,2023-03-31 23:58:23,vercel/next.js,JavaScript,The React Framework
+70365100,2020-01-01 08:30:24,2023-03-31 23:47:28,macports/macports-ports,Tcl,The MacPorts ports tree
+70746484,2020-11-24 22:02:31,2023-03-31 22:57:50,apache/tvm,Python,"Open deep learning compiler stack for cpu, gpu and specialized accelerators"
+71932349,2020-01-01 08:00:52,2023-03-31 23:46:07,ray-project/ray,Python,"An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library."
+72495579,2020-01-01 08:05:00,2023-03-31 23:57:16,go-gitea/gitea,Go,"Git with a cup of tea, painless self-hosted git service"
+72685026,2020-01-01 08:39:06,2023-03-31 23:55:31,MicrosoftDocs/azure-docs,PowerShell,Open source documentation of Microsoft Azure
+74175805,2020-01-01 10:11:26,2023-03-31 23:48:49,istio/istio,Go,"Connect, secure, control, and observe services."
+75224144,2020-01-01 15:21:36,2023-03-31 23:59:48,openshift/release,Shell,Release tooling for OpenShift
+75821432,2020-01-01 08:02:11,2023-03-31 23:55:57,llvm/llvm-project,C++,The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
+76474200,2020-05-23 23:50:03,2023-03-31 23:53:09,apache/hudi,Java,"Upserts, Deletes And Incremental Processing on Big Data."
+76686583,2020-01-01 09:11:42,2023-03-31 22:33:14,kubevirt/kubevirt,Go,Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+76734068,2020-01-01 13:30:48,2023-03-31 23:48:19,renovatebot/renovate,TypeScript,Universal dependency update tool that fits into your workflows.
+79658844,2020-12-16 04:50:04,2023-03-31 23:52:02,tachiyomiorg/tachiyomi-extensions,Kotlin,Source extensions for the Tachiyomi app.
+80862584,2020-01-01 08:23:38,2023-03-31 23:59:56,WordPress/gutenberg,JavaScript,The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+81598961,2020-01-01 08:11:44,2023-03-31 23:58:28,python/cpython,Python,The Python programming language
+88650014,2020-01-01 10:44:10,2023-03-31 15:16:46,flutter/plugins,Dart,Plugins for Flutter maintained by the Flutter team
+88860262,2020-01-01 16:42:20,2023-03-31 23:20:17,flathub/flathub,,Pull requests for new applications to be added
+91253698,2020-01-01 09:57:56,2023-03-31 23:47:39,ccxt/ccxt,JavaScript,A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+93301055,2020-01-01 14:36:33,2023-03-31 23:57:42,Regalis11/Barotrauma,C#,A 2D online multiplayer game taking place in a submarine travelling through the icy depths of Jupiter's moon Europa.
+93444615,2020-11-03 00:48:36,2023-03-31 23:58:31,hashicorp/terraform-provider-aws,Go,Terraform AWS provider
+93446042,2021-08-09 19:31:17,2023-03-31 23:46:05,hashicorp/terraform-provider-azurerm,Go,Terraform provider for Azure Resource Manager
+97922418,2020-01-01 13:56:11,2023-03-31 23:59:30,leanprover-community/mathlib,Lean,Lean mathematical components library
+99178995,2020-01-01 19:37:19,2023-03-31 18:30:43,MetaMask/eth-phishing-detect,JavaScript,Utility for detecting phishing domains targeting Ethereum users
+99919302,2022-06-17 17:30:55,2023-03-31 23:53:54,apache/doris,Java,"Apache Doris is an easy-to-use, high performance and unified analytics database."
+100060912,2020-01-01 08:16:43,2023-03-31 22:54:38,microsoft/terminal,C++,"The new Windows Terminal, and the original Windows console host - all in the same place!"
+100061716,2020-01-01 09:12:04,2023-03-31 23:26:10,nrwl/nx,TypeScript,"Smart, Fast and Extensible Build System"
+101807531,2020-01-01 10:30:52,2023-03-31 23:58:55,JuliaRegistries/General,Julia,The official registry of general Julia packages
+102578345,2020-01-01 08:14:18,2023-03-31 22:50:44,coolsnowwolf/lede,C,Lean's OpenWrt source
+102689445,2020-01-01 08:01:54,2023-03-31 22:41:21,mattermost/mattermost-webapp,TypeScript,Webapp of Mattermost server: https://github.com/mattermost/mattermost-server
+105010691,2020-01-01 09:04:22,2023-03-31 23:23:57,nextcloud/desktop,C++,💻 Desktop sync client for Nextcloud
+105712642,2020-01-02 15:33:28,2023-03-31 23:12:33,MicrosoftDocs/msteams-docs,HTML,Source for the Microsoft Teams developer platform documentation.
+105808767,2020-01-01 09:23:52,2023-03-31 23:56:41,aws/aws-cdk,TypeScript,The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+108311273,2020-01-01 08:00:15,2023-03-31 22:53:35,Azure/azure-sdk-for-js,TypeScript,This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.
+109145553,2020-07-08 03:20:47,2023-03-31 23:59:34,containers/podman,Go,Podman: A tool for managing OCI containers and pods.
+109200851,2020-01-02 12:17:51,2023-03-31 23:56:56,microsoft/azuredatastudio,TypeScript,"Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux."
+109825187,2020-01-01 09:37:35,2023-02-03 20:05:27,Kaiserreich/Kaiserreich-4,,
+110178895,2020-01-01 08:14:35,2023-03-31 23:55:42,brave/brave-browser,JavaScript,"Next generation Brave browser for Android, Linux, macOS, Windows."
+110198384,2020-01-01 12:00:48,2023-03-31 23:57:35,brave/brave-core,HTML,"Core engine for the Brave browser for Android, Linux, macOS, Windows. For issues https://github.com/brave/brave-browser/issues"
+116167731,2020-01-01 09:10:45,2023-03-31 22:23:11,yuzu-emu/yuzu,C++,Nintendo Switch Emulator
+116457726,2020-01-03 03:34:24,2023-03-31 23:41:38,ethereum/ethereum-org-website,JavaScript,Ethereum.org is a primary online resource for the Ethereum community.
+117465135,2020-01-01 12:20:50,2023-03-31 22:43:28,zero-to-mastery/start-here-guidelines,Python,"Lets Git started in the world of opensource, starting in the Zero To Mastery's opensource playground. Especially designed for education and practical experience purposes."
+119072000,2020-01-02 00:01:06,2023-03-31 23:56:27,MicrosoftDocs/microsoft-365-docs,PowerShell,This repo is used to host the source for the Microsoft 365 documentation on https://docs.microsoft.com.
+120896210,2020-01-01 20:39:02,2023-03-31 22:53:31,argoproj/argo-cd,Go,Declarative continuous deployment for Kubernetes.
+121470383,2020-01-01 13:56:38,2023-03-31 23:50:24,solana-labs/solana,Rust,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+121516035,2020-05-21 18:05:52,2023-03-31 23:30:24,nrfconnect/sdk-nrf,C,nRF Connect SDK main repository
+125098880,2020-01-01 10:20:35,2023-03-31 23:42:51,ValveSoftware/Proton,C++,Compatibility tool for Steam Play based on Wine and additional components
+126314606,2020-01-01 09:15:00,2023-03-29 22:38:58,mozilla-mobile/fenix,Kotlin,Firefox for Android
+128636610,2020-01-01 09:54:30,2023-03-31 23:42:45,Koenkk/zigbee2mqtt,JavaScript,"Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨"
+129717717,2020-01-01 13:35:43,2023-03-31 23:47:54,grafana/loki,Go,"Like Prometheus, but for logs."
+130879558,2020-01-01 19:41:27,2023-03-31 23:57:43,gitpod-io/gitpod,Go,Ready-to-code dev evironments for GitHub and GitLab
+133134007,2020-01-01 18:08:39,2023-03-31 23:53:09,OpenAPITools/openapi-generator,Java,"OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
+133442384,2020-01-01 08:03:49,2023-03-31 23:58:23,denoland/deno,Rust,A modern runtime for JavaScript and TypeScript.
+133843125,2020-01-01 11:04:15,2023-03-31 23:58:29,department-of-veterans-affairs/va.gov-team,HTML,Public resources for building on and in support of VA.gov. Visit complete Knowledge Hub:
+136202695,2020-01-01 19:02:18,2023-03-31 23:42:21,mlflow/mlflow,Python,Open source platform for the machine learning lifecycle
+137451403,2020-01-01 10:06:52,2023-03-31 23:20:06,alibaba/nacos,Java,"an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications."
+137503442,2020-01-01 08:03:23,2023-03-31 23:30:51,void-linux/void-packages,Shell,The Void source packages collection
+139914932,2020-01-01 09:30:45,2023-03-31 23:58:40,quarkusio/quarkus,Java,Quarkus: Supersonic Subatomic Java.
+143040428,2020-04-28 22:59:30,2023-03-31 23:58:48,github/codeql,CodeQL,The libraries and queries that power CodeQL and LGTM.com
+145670234,2020-01-01 10:16:47,2023-03-31 22:47:18,open-mmlab/mmdetection,Python,OpenMMLab Detection Toolbox and Benchmark
+145880460,2020-01-01 08:19:47,2023-03-31 23:39:28,aws-amplify/amplify-cli,TypeScript,The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+146327667,2021-09-14 06:00:11,2023-03-31 23:57:51,vectordotdev/vector,Rust,A high-performance observability data pipeline.
+146941185,2020-01-01 10:02:19,2023-03-31 23:54:54,firebase/firebase-android-sdk,Java,Firebase Android SDK
+149121954,2020-01-01 15:12:24,2023-03-31 23:57:31,openjdk/jdk,Java,JDK main-line development
+153097643,2020-04-22 23:12:39,2023-03-31 23:45:01,openvinotoolkit/openvino,C++,OpenVINO™ Toolkit repository
+155220641,2020-01-01 09:24:01,2023-03-31 23:55:54,huggingface/transformers,Python,"🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX."
+156939672,2020-01-01 08:59:47,2023-03-31 23:53:39,microsoft/onnxruntime,C++,"ONNX Runtime: cross-platform, high performance scoring engine for ML models"
+157166750,2020-03-15 16:00:51,2023-03-31 23:39:18,lensapp/lens,TypeScript,Lens - The way the world runs Kubernetes
+158256479,2020-05-28 04:56:23,2023-03-31 23:23:06,apache/iceberg,Java,Apache Iceberg
+160083795,2020-01-01 08:05:31,2023-03-31 23:47:21,SerenityOS/serenity,C++,The Serenity Operating System 🐞
+164140756,2020-09-21 22:57:09,2023-03-31 23:57:35,files-community/Files,C#,Building the best file manager experience for Windows
+166515022,2020-12-28 07:06:56,2023-03-31 23:50:09,trinodb/trino,Java,"Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)"
+173335706,2021-04-16 00:00:32,2023-03-31 23:59:54,apache/dolphinscheduler,Java,"Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box."
+178626720,2022-06-16 02:07:58,2023-03-31 23:55:03,Lightning-AI/lightning,Python,"Deep learning framework to train, deploy, and ship AI products Lightning fast."
+180481986,2020-08-01 00:39:11,2023-03-31 22:43:54,apache/apisix,Lua,The Cloud-Native API Gateway
+181746158,2020-01-01 08:29:33,2023-03-31 21:42:39,freddier/hyperblog,HTML,Un blog increíble para el curso de Git y Github de Platzi
+183483988,2020-01-01 14:16:27,2023-03-31 23:54:09,ruffle-rs/ruffle,Rust,A Flash Player emulator written in Rust
+184456251,2020-01-01 08:03:40,2023-03-31 23:30:07,microsoft/PowerToys,C#,Windows system utilities to maximize productivity
+189621607,2020-10-08 00:15:45,2023-03-31 23:28:11,github/docs,JavaScript,The open-source repo for docs.github.com
+192925833,2020-03-31 21:17:02,2023-03-31 23:47:53,prisma/prisma,TypeScript,"Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+196353673,2020-01-01 11:05:52,2023-03-31 21:35:15,taosdata/TDengine,C,"TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps."
+196414933,2020-01-03 01:43:36,2023-03-31 22:32:41,open-telemetry/opentelemetry-collector-contrib,Go,Contrib repository for the OpenTelemetry Collector
+197153676,2020-01-02 10:56:30,2023-03-31 23:59:42,Chia-Network/chia-blockchain,Python,"Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)"
+197275551,2020-05-19 22:56:02,2023-03-31 23:56:10,microsoft/winget-pkgs,PowerShell,The Microsoft community Windows Package Manager manifest repository
+201546443,2020-01-01 21:25:55,2023-03-31 21:58:23,trustwallet/assets,Go,"A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens."
+202429703,2022-03-24 07:24:24,2023-03-31 22:18:34,firebase/flutterfire,Dart,🔥 A collection of Firebase plugins for Flutter apps.
+203874269,2021-01-28 04:24:26,2023-03-29 03:55:16,section-engineering-education/engineering-education,SCSS,A community-generated pool of educational content which is useful for engineers of every level.
+204671232,2020-01-01 16:57:24,2023-03-31 23:58:11,conan-io/conan-center-index,Python,Recipes for the ConanCenter repository
+210716005,2020-01-01 08:20:59,2023-03-31 23:59:46,dotnet/runtime,C#,".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps."
+221981891,2020-01-22 11:00:25,2023-03-31 23:57:10,microsoft/playwright,JavaScript,"Node library to automate Chromium, Firefox and WebKit with a single API"
+228683419,2020-01-14 22:19:24,2023-03-31 23:09:10,google/it-cert-automation-practice,Python,Google IT Automation with Python Professional Certificate - Practice files
+234798675,2020-01-19 05:13:55,2023-03-31 23:40:16,bevyengine/bevy,Rust,A refreshingly simple data-driven game engine built in Rust
+236095576,2020-11-03 17:34:12,2023-03-31 23:57:43,backstage/backstage,TypeScript,Backstage is an open platform for building developer portals
+237523442,2020-02-11 03:59:29,2023-03-31 23:37:50,tailscale/tailscale,Go,"The easiest, most secure way to use WireGuard and 2FA."
+237867883,2020-06-01 11:18:23,2023-03-31 20:24:19,metersphere/metersphere,Java,MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！
+243435179,2020-03-03 00:53:27,2023-03-31 23:33:11,LeetCode-Feedback/LeetCode-Feedback,,
+244694174,2020-07-02 02:09:38,2023-03-31 23:59:47,project-chip/connectedhomeip,C++,"Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance."
+246777728,2020-03-12 16:09:21,2023-02-17 13:32:42,JacksonKearl/testissues,,Clone of the vscode issue stream.
+254264994,2020-04-09 11:47:42,2020-04-09 11:47:42,logseq/logseq,,
+257485422,2020-05-22 21:01:20,2023-03-31 23:47:45,vitejs/vite,TypeScript,Next generation frontend tooling. It's fast!
+260240241,2022-02-06 23:14:41,2023-03-31 23:51:59,mui/mui-x,TypeScript,MUI X: Advanced and powerful React components for complex use-cases.
+262296122,2020-05-08 18:38:17,2023-03-31 22:44:08,PaddlePaddle/PaddleOCR,Python,"Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)"
+262395224,2020-05-19 23:14:28,2023-03-31 23:22:22,dotnet/maui,C#,".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop."
+264818686,2020-05-28 06:58:41,2023-03-31 23:52:36,ultralytics/yolov5,Python,YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+266231149,2020-05-23 08:06:07,2023-03-31 23:49:47,logseq/logseq,Clojure,"A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap"
+268424739,2021-05-30 16:54:44,2023-03-31 23:57:48,helix-editor/helix,Rust,A post-modern modal text editor.
+275993885,2020-07-10 00:14:45,2023-03-31 23:30:48,appsmithorg/appsmith,TypeScript,"Quickly build any custom business software like admin panels, internal tools, dashboards and more with pre-built UI widgets that connect to any database, GraphQL or REST API, controlling everything with Javascript."
+281319253,2020-08-18 10:00:24,2023-03-31 23:57:10,element-plus/element-plus,Vue,🎉 A Vue.js 3 UI Library made by Element team
+281500451,2020-07-22 04:43:56,2023-03-31 23:23:11,Skyrat-SS13/Skyrat-tg,DM,A skyrat downstream of /tg/station SS13.
+281975310,2020-09-03 15:20:50,2023-03-31 23:33:33,type-challenges/type-challenges,TypeScript,Collection of TypeScript type challenges with online judge
+283046497,2020-09-19 12:04:57,2023-03-31 23:54:41,airbytehq/airbyte,Java,"Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases."
+284871753,2020-09-05 01:40:06,2023-03-31 22:35:26,flybywiresim/a32nx,HTML,"The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It  aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free."
+285902689,2021-07-20 09:38:25,2023-03-31 23:58:07,Expensify/App,JavaScript,"Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code."
+287113304,2020-08-20 02:59:17,2023-03-31 23:55:47,newrelic/docs-website,JavaScript,Source code and public issue backlog for @newrelic docs. We welcome feedback on the docs in GitHub issues!
+292673424,2020-09-16 11:19:33,2023-03-31 23:58:12,cloudflare/cloudflare-docs,JavaScript,Cloudflare’s developer docs.
+294546561,2020-11-12 04:03:07,2023-03-31 22:28:03,microsoft/vscode-jupyter,TypeScript,VS Code Jupyter extension
+295774370,2020-09-15 23:42:30,2023-03-31 23:39:53,mdn/content,Markdown,The content behind MDN Web Docs
+304344049,2021-03-12 07:03:01,2023-03-31 23:33:31,sveltejs/kit,JavaScript,The fastest way to build Svelte apps
+307260205,2021-02-24 23:22:25,2023-03-31 23:36:40,yt-dlp/yt-dlp,Python,A youtube-dl fork with additional features and fixes
+307489284,2021-11-22 23:33:03,2023-03-31 23:38:19,remix-run/remix,TypeScript,"Build Better Websites. Create modern, resilient user experiences with web fundamentals."
+310632133,2020-11-06 23:19:28,2023-03-31 03:54:06,solana-labs/token-list,Go,The community maintained Solana token registry
+319742187,2020-12-09 03:38:25,2023-03-31 22:50:09,mdn/translated-content,Markdown,The source repository of all translated content for MDN Web Docs
+330914717,2022-01-11 00:16:54,2023-03-31 23:55:30,unifyai/ivy,Python,The Unified Machine Learning Framework
+348822769,2021-10-12 22:01:09,2023-03-31 04:33:52,nuxt/framework,TypeScript,The Hybrid Vue(3) Framework.
+354743391,2021-07-07 00:12:30,2023-03-31 23:57:47,o3de/o3de,C++,"Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations."
+359227401,2021-04-25 11:32:01,2023-03-31 23:26:23,PixelExperience/android-issues,,Issue tracker
+364319186,2021-05-17 16:57:36,2023-03-31 23:44:41,filecoin-project/filecoin-plus-large-datasets,,
+368199998,2021-05-17 21:41:50,2023-03-31 21:44:47,TP-Lab/tokens,Rich Text Format,Token assets for TokenPocket
+368288588,2021-05-18 02:56:33,2023-03-31 04:46:06,idsb3t1/KEEP-pipeline-tests-resources,,
+383940088,2021-07-08 09:17:16,2023-03-31 21:57:25,ShadowMario/FNF-PsychEngine,Haxe,Engine originally used on Mind Games mod
+399567620,2022-04-01 05:31:22,2023-03-21 22:22:43,element-fi/elf-council-frontend,CSS,Frontend repository for governance
+408858330,2021-10-13 20:37:54,2023-03-31 23:32:45,raycast/extensions,TypeScript,Everything you need to extend Raycast.
+408894306,2021-09-22 00:29:49,2023-03-31 23:59:47,google-test/signclav2-probe-repo,,
+450258305,2022-01-25 03:14:22,2023-03-29 17:33:44,helium/denylist,,
+457498892,2022-03-23 03:11:37,2023-03-26 21:32:12,archway-network/testnets,,This repository contains archway testnets
+462096007,2022-03-26 15:53:52,2023-02-28 22:51:26,taozhiyu/TyProAction,Inno Setup,A Github Action about Ty (Pro Version)
+480480380,2022-05-03 01:17:02,2023-03-27 22:38:03,education/GitHubGraduation-2022,JavaScript,"Join the GitHub Graduation Yearbook and ""walk the stage"" on June 11."
+499184667,2022-07-07 02:53:07,2023-03-31 21:34:24,ValveSoftware/Dota2-Gameplay,,Public Bug Tracker for Dota2
+516657210,2022-07-22 15:41:50,2023-03-31 23:58:58,wjz304/Redpill_CustomBuild,Shell,Redpill 定制化编译
+527591471,2022-08-22 22:05:28,2023-03-31 23:57:28,AUTOMATIC1111/stable-diffusion-webui,Python,Stable Diffusion web UI
